@@ -3,4 +3,4 @@
 [简体中文](README.md) | English 
 
 #### Description
-pdf4j is a Java open source solution for word and PDF conversion, which fully complies with Apache license 2.0
+The pdf4j library is an open source Java tool for Word and PDF document format conversion. pdf4j is published under the Apache License, Version 2.0.
